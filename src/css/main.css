@@ -130,6 +130,11 @@ top:5px;
   width:100%;
 }
 
+.item-details {
+  display: block;
+  position: relative;
+}
+
 .item-title {
   font-size:.85rem;
   margin:.5rem .25rem;
